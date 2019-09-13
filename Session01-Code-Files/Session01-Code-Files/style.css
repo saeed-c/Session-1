@@ -1,0 +1,37 @@
+/*type selector*/
+body{
+  text-align: center;
+  background-color: #85e9ff;
+  margin:0pt;
+<p>{
+  text-align: left;
+}
+}
+
+/*type selector*/
+h1{
+  color: #f40025;
+  font-size: 40pt;
+  font-family: cursive;
+}
+
+/*class selector*/
+.section2{
+  background-color: #d71b1b
+}
+
+/*id selector*/
+#list1{
+  text-align: center;
+  background-color:#7300a1 
+}
+#para1{
+  background-color: #7300a1
+
+}
+#para1{
+  font-family:arial
+  font-size: 30pt;
+
+}
+#para1{color: #0eb7e4}
